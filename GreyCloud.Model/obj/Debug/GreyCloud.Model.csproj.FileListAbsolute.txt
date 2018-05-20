@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\bin\Debug\GreyCloud.Model.dll.config
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\bin\Debug\GreyCloud.Model.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\bin\Debug\GreyCloud.Model.pdb
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\obj\Debug\GreyCloud.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\obj\Debug\GreyCloud.Model.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Model\obj\Debug\GreyCloud.Model.pdb

@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Service.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Service.pdb
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Common.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Data.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Model.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Common.pdb
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Data.pdb
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Data.dll.config
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Model.pdb
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\GreyCloud.Model.dll.config
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\obj\Debug\GreyCloud.Service.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\obj\Debug\GreyCloud.Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\obj\Debug\GreyCloud.Service.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Service\obj\Debug\GreyCloud.Service.pdb

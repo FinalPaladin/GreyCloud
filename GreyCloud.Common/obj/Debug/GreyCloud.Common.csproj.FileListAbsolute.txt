@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Common\bin\Debug\GreyCloud.Common.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Common\bin\Debug\GreyCloud.Common.pdb
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Common\obj\Debug\GreyCloud.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Common\obj\Debug\GreyCloud.Common.dll
+C:\Users\DELL\Desktop\GreyCloud\GreyCloud\GreyCloud.Common\obj\Debug\GreyCloud.Common.pdb
